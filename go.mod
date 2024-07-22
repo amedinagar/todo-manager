@@ -1,4 +1,4 @@
-module cmd-learn
+module todo-manager
 
 go 1.20
 
