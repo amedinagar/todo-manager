@@ -1,4 +1,4 @@
-module todo-manager
+module github.com/amedinagar/todo-manager
 
 go 1.20
 
