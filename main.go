@@ -1,5 +1,7 @@
 package main
 
+import "github.com/amedinagar/todo-manager/cmd"
+
 func main() {
-	cmd.rootCmd.Execute()
+	cmd.RootCmd.Execute()
 }
